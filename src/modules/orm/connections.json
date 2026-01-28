@@ -1,0 +1,26 @@
+[
+  {
+    "name": "cookmyfridge_test",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "database": "cookmyfridge_test",
+    "username": "root",
+    "password": "root"
+  },
+  {
+    "name": "test_fail",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "database": "cookmyfridge_fail",
+    "username": "root",
+    "password": "root"
+  },
+  {
+    "name": "alternatri",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "database": "alternatri",
+    "username": "root",
+    "password": "root"
+  }
+]
