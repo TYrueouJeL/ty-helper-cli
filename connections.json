@@ -1,9 +1,9 @@
 [
   {
-    "name": "cookmyfridge_test",
+    "name": "cookmyfridge",
     "host": "127.0.0.1",
     "port": 3306,
-    "database": "cookmyfridge_test",
+    "database": "cookmyfridge",
     "username": "root",
     "password": "root"
   },
